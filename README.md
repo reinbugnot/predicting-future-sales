@@ -1,6 +1,6 @@
 # predicting_future_sales
 
-Using the Multi-Layer Perceptron Regressor to predict sales on each item for the 37th month given sales trend of the 36 months prior (January 2013 to October 2015). This project is one of the available [competitions in kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
+Using the Multi-Layer Perceptron Regressor to predict sales on each item for the 34th month given sales trend of the 33 months prior (January 2013 to October 2015). This project is one of the available [competitions in kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
 
 NOTES:
 * The notebook features the Data Analysis, Visualization, Wrangling, Cleaning, and Transformation steps that I did to maximize my model output for the competition.
